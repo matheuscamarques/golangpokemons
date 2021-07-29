@@ -1,3 +1,3 @@
-module estudos.com/m
+module golangpokemons
 
 go 1.16
